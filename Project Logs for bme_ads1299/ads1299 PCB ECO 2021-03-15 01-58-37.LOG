@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GPIO1 Pin=R18-0
+Removed Pin From Net: NetName=AGND Pin=R18-1
+Removed Member From Class: ClassName=U_ads1299 Member=R18
+Change component parameters: Designator = "R22" ("R22"); Footprint = "0603"; UniqueID = "\AYSLTIZI\QIWVATOS" ("\AYSLTIZI\QIWVATOS")

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=C\S\_ADS Pin=P2-2
+Removed Pin From Net: NetName=MISO_ADS Pin=P2-3
+Removed Pin From Net: NetName=MOSI_ADS Pin=P2-4
+Removed Pin From Net: NetName=SCK_ADS Pin=P2-5
+Removed Pin From Net: NetName=R\S\T\_ADS Pin=P2-6
+Removed Pin From Net: NetName=P\D\W\N\_ADS Pin=P2-7
+Removed Pin From Net: NetName=START_ADS Pin=P2-8
+Removed Pin From Net: NetName=DAISY_IN Pin=P2-9
+Removed Pin From Net: NetName=GPIO1 Pin=P2-17
+Removed Pin From Net: NetName=GPIO2 Pin=P2-18
+Removed Pin From Net: NetName=GPIO3 Pin=P2-19
+Removed Pin From Net: NetName=GPIO4 Pin=P2-20
+Added Pin To Net: NetName=GPIO4 Pin=P2-2
+Added Pin To Net: NetName=GPIO3 Pin=P2-3
+Added Pin To Net: NetName=GPIO2 Pin=P2-4
+Added Pin To Net: NetName=MISO_ADS Pin=P2-5
+Added Pin To Net: NetName=GPIO1 Pin=P2-6
+Added Pin To Net: NetName=DAISY_IN Pin=P2-7
+Added Pin To Net: NetName=SCK_ADS Pin=P2-8
+Added Pin To Net: NetName=C\S\_ADS Pin=P2-9
+Added Pin To Net: NetName=START_ADS Pin=P2-10
+Added Pin To Net: NetName=MOSI_ADS Pin=P2-18
+Added Pin To Net: NetName=P\D\W\N\_ADS Pin=P2-19
+Added Pin To Net: NetName=R\S\T\_ADS Pin=P2-20
+Added Room: Name=bme_ads1299

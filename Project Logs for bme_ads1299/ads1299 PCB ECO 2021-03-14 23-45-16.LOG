@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=AVSS Pin=C18-0
+Removed Pin From Net: NetName=AVSS Pin=C19-0
+Added Component: Designator=P1(M50-4301045)
+Add component (AddParameter): Name = "Farnell"; Value = "1099531"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2x10 Mount Header, 1.27mm"; VariantName = "[No Variations]"
+Added Component: Designator=P2(M50-4301045)
+Add component (AddParameter): Name = "Farnell"; Value = "1099531"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2x10 Mount Header, 1.27mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=C18-0
+Added Pin To Net: NetName=AGND Pin=C19-0
+Added Pin To Net: NetName=5V_A Pin=P1-2
+Added Pin To Net: NetName=AGND Pin=P1-9
+Added Pin To Net: NetName=AVSS Pin=P1-10
+Added Pin To Net: NetName=AVSS Pin=P1-11
+Added Pin To Net: NetName=AGND Pin=P1-12
+Added Pin To Net: NetName=5V_A Pin=P1-19
+Added Pin To Net: NetName=SPI_DRDY Pin=P2-1
+Added Pin To Net: NetName=C\S\_ADS Pin=P2-2
+Added Pin To Net: NetName=MISO_ADS Pin=P2-3
+Added Pin To Net: NetName=MOSI_ADS Pin=P2-4
+Added Pin To Net: NetName=SCK_ADS Pin=P2-5
+Added Pin To Net: NetName=R\S\T\_ADS Pin=P2-6
+Added Pin To Net: NetName=P\D\W\N\_ADS Pin=P2-7
+Added Pin To Net: NetName=START_ADS Pin=P2-8
+Added Pin To Net: NetName=GPIO2 Pin=P2-18
+Added Pin To Net: NetName=GPIO3 Pin=P2-19
+Added Pin To Net: NetName=GPIO4 Pin=P2-20
+Added Pin To Net: NetName=R\S\T\_ADS Pin=R16-1
+Added Pin To Net: NetName=R\S\T\_ADS Pin=U1-36
+Added Pin To Net: NetName=3V3_ADS Pin=P1-1
+Added Pin To Net: NetName=3V3_ADS Pin=P1-20
+Added Net: Name=3V3_ADS
+Added Pin To Net: NetName=DAISY_IN Pin=P2-9
+Added Pin To Net: NetName=DAISY_IN Pin=U1-41
+Added Net: Name=DAISY_IN
+Added Pin To Net: NetName=GPIO1 Pin=P2-17
+Added Pin To Net: NetName=GPIO1 Pin=R19-0
+Added Pin To Net: NetName=GPIO1 Pin=U1-42
+Added Net: Name=GPIO1
+Added Class: Name=bme_ads1299
+Added Room: Name=bme_ads1299

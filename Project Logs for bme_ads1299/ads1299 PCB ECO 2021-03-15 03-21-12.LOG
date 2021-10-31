@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=3V3_ADS Pin=TP21-0
+Removed Pin From Net: NetName=5V_A Pin=TP25-0
+Removed Member From Class: ClassName=bme_ads1299 Member=TP21
+Removed Member From Class: ClassName=bme_ads1299 Member=TP25

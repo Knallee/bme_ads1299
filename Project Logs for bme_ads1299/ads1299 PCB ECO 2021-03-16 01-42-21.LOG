@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=AGND Pin=P1-5
+Removed Pin From Net: NetName=AVSS Pin=P1-6
+Removed Pin From Net: NetName=AVSS Pin=P1-15
+Removed Pin From Net: NetName=AGND Pin=P1-16
+Removed Pin From Net: NetName=AGND Pin=TP22-0
+Removed Pin From Net: NetName=AVSS Pin=TP23-0
+Added Pin To Net: NetName=AVSS Pin=P1-5
+Added Pin To Net: NetName=AVSS Pin=P1-16
+Added Pin To Net: NetName=AVSS Pin=TP22-0
+Change Net Name : Old Net Name=AGND New Net Name=DGND
+Change Net Name : Old Net Name=AVSS New Net Name=AGND
+Added Pin To Net: NetName=AVSS Pin=P1-6
+Added Pin To Net: NetName=AVSS Pin=P1-15
+Added Pin To Net: NetName=AVSS Pin=TP23-0
+Added Net: Name=AVSS

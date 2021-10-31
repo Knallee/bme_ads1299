@@ -1,0 +1,440 @@
+Change Component Designator: OldDesignator=C15 NewDesignator=C13
+Change component parameters: Designator = "C15" ("C15"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\NNYVSYXI" ("\AYSLTIZI\NNYVSYXI")
+Change component parameters (AddParameter): Name = "Order number"; Value = "445-14147-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C79" ("C79"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\OBCQLZZU" ("\AYSLTIZI\OBCQLZZU")
+Change component parameters (AddParameter): Name = "Order number"; Value = "587-4321-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1" ("C1"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\WPRGLPSK" ("\AYSLTIZI\WPRGLPSK")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-1063-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\DMJAJKYA" ("\AYSLTIZI\DMJAJKYA")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-CL10B104KB8NNNLCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\ENYRUWCY" ("\AYSLTIZI\ENYRUWCY")
+Change component parameters (AddParameter): Name = "Order number"; Value = "445-7468-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\YBVHPTXM" ("\AYSLTIZI\YBVHPTXM")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-CL10B104KB8NNNLCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\AHUHFOVX" ("\AYSLTIZI\AHUHFOVX")
+Change component parameters (AddParameter): Name = "Order number"; Value = "445-7468-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\VZLRWMIH" ("\AYSLTIZI\VZLRWMIH")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-CL10B104KB8NNNLCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\SAWCJGNK" ("\AYSLTIZI\SAWCJGNK")
+Change component parameters (AddParameter): Name = "Order number"; Value = "445-7468-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\FQFEQWEP" ("\AYSLTIZI\FQFEQWEP")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-1063-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\XKKXUSLV" ("\AYSLTIZI\XKKXUSLV")
+Change component parameters (AddParameter): Name = "Order number"; Value = "445-7468-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\OVUSBOHH" ("\AYSLTIZI\OVUSBOHH")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-CL10B104KB8NNNLCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\RBQDTZDD" ("\AYSLTIZI\RBQDTZDD")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-1063-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\BHMVDOJP" ("\AYSLTIZI\BHMVDOJP")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-1063-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\PHRBBNTN" ("\AYSLTIZI\PHRBBNTN")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-CL10B104KB8NNNLCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\HGWOOZSB" ("\AYSLTIZI\HGWOOZSB")
+Change component parameters (AddParameter): Name = "Order number"; Value = "445-7468-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\PMQGXTVB" ("\AYSLTIZI\PMQGXTVB")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-CL10B104KB8NNNLCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\UKPHNXJB" ("\AYSLTIZI\UKPHNXJB")
+Change component parameters (AddParameter): Name = "Order number"; Value = "445-7468-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\BAZRRSPO" ("\AYSLTIZI\BAZRRSPO")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-CL10B104KB8NNNLCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\TPQHJUOZ" ("\AYSLTIZI\TPQHJUOZ")
+Change component parameters (AddParameter): Name = "Order number"; Value = "445-7468-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\HRMMSNYT" ("\AYSLTIZI\HRMMSNYT")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-1063-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\VCFQFDKT" ("\AYSLTIZI\VCFQFDKT")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-1063-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\DIQGTJVV" ("\AYSLTIZI\DIQGTJVV")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-1063-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\KMFPLDUG" ("\AYSLTIZI\KMFPLDUG")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-1063-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C26"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\MLULRPTG" ("\AYSLTIZI\MLULRPTG")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-1063-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\QFFZLFSM" ("\AYSLTIZI\QFFZLFSM")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-1063-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\CKZTBMJJ" ("\AYSLTIZI\CKZTBMJJ")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-1063-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29" ("C29"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\TLWLNFYC" ("\AYSLTIZI\TLWLNFYC")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-1063-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30" ("C30"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\XVGTYYEL" ("\AYSLTIZI\XVGTYYEL")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-1063-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31" ("C31"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\BQWEQADM" ("\AYSLTIZI\BQWEQADM")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-CL10B104KB8NNNLCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32" ("C32"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\ZYHKSSFJ" ("\AYSLTIZI\ZYHKSSFJ")
+Change component parameters (AddParameter): Name = "Order number"; Value = "587-6023-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33" ("C33"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\XYZPOUFK" ("\AYSLTIZI\XYZPOUFK")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-1063-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C34" ("C34"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\ABHBPCII" ("\AYSLTIZI\ABHBPCII")
+Change component parameters (AddParameter): Name = "Order number"; Value = "445-7468-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C36" ("C36"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\RYSCRROI" ("\AYSLTIZI\RYSCRROI")
+Change component parameters (AddParameter): Name = "Order number"; Value = "445-7468-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C37" ("C37"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\RHWBPMXL" ("\AYSLTIZI\RHWBPMXL")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-1063-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C38" ("C38"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\IKFZILZV" ("\AYSLTIZI\IKFZILZV")
+Change component parameters (AddParameter): Name = "Order number"; Value = "1276-1063-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C80" ("C80"); Footprint = "0603 CAP"; UniqueID = "\AYSLTIZI\UIPCLLCN" ("\AYSLTIZI\UIPCLLCN")
+Change component parameters (AddParameter): Name = "Order number"; Value = "445-7468-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P1" ("P1"); Footprint = "M50-4301045"; UniqueID = "\DBKEUKOM" ("\DBKEUKOM")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1099531"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Krille har"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2x10 Mount Header, 1.27mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P2" ("P2"); Footprint = "M50-4301045"; UniqueID = "\YGRSIVIM" ("\YGRSIVIM")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1099531"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Krille har"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2x10 Mount Header, 1.27mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3" ("P3"); Footprint = "M50-4301045"; UniqueID = "\KOPPBUDL" ("\KOPPBUDL")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1099531"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Krille har"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2x10 Mount Header, 1.27mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P5" ("P5"); Footprint = "padtwo_L"; UniqueID = "\AYSLTIZI\RSFKKZMC" ("\AYSLTIZI\RSFKKZMC")
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1x2 Pin Header"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "0603"; UniqueID = "\AYSLTIZI\XRORZIIS" ("\AYSLTIZI\XRORZIIS")
+Change component parameters (AddParameter): Name = "Order number"; Value = "311-2629-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "0603"; UniqueID = "\AYSLTIZI\UUFVNSGY" ("\AYSLTIZI\UUFVNSGY")
+Change component parameters (AddParameter): Name = "Order number"; Value = "311-2629-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "0603"; UniqueID = "\AYSLTIZI\POVTEYCD" ("\AYSLTIZI\POVTEYCD")
+Change component parameters (AddParameter): Name = "Order number"; Value = "311-2629-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "0603"; UniqueID = "\AYSLTIZI\ASJOSPML" ("\AYSLTIZI\ASJOSPML")
+Change component parameters (AddParameter): Name = "Order number"; Value = "P392KHCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "392k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "0603"; UniqueID = "\AYSLTIZI\IFVTOUHZ" ("\AYSLTIZI\IFVTOUHZ")
+Change component parameters (AddParameter): Name = "Order number"; Value = "311-2629-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "0603"; UniqueID = "\AYSLTIZI\MQHSOXPU" ("\AYSLTIZI\MQHSOXPU")
+Change component parameters (AddParameter): Name = "Order number"; Value = "RMCF0603ZT0R00CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "0603"; UniqueID = "\AYSLTIZI\JSOXOHSY" ("\AYSLTIZI\JSOXOHSY")
+Change component parameters (AddParameter): Name = "Order number"; Value = "311-2629-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "0603"; UniqueID = "\AYSLTIZI\HLNSIDIV" ("\AYSLTIZI\HLNSIDIV")
+Change component parameters (AddParameter): Name = "Order number"; Value = "311-2629-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "0603"; UniqueID = "\AYSLTIZI\HDAQQBCM" ("\AYSLTIZI\HDAQQBCM")
+Change component parameters (AddParameter): Name = "Order number"; Value = "311-2629-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "0603"; UniqueID = "\AYSLTIZI\BAVLEXWT" ("\AYSLTIZI\BAVLEXWT")
+Change component parameters (AddParameter): Name = "Order number"; Value = "RHM10KADCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "0603"; UniqueID = "\AYSLTIZI\INCBYVYF" ("\AYSLTIZI\INCBYVYF")
+Change component parameters (AddParameter): Name = "Order number"; Value = "311-2629-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "0603"; UniqueID = "\AYSLTIZI\LUFDBPGE" ("\AYSLTIZI\LUFDBPGE")
+Change component parameters (AddParameter): Name = "Order number"; Value = "311-2629-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "0603"; UniqueID = "\AYSLTIZI\JVAGZFDW" ("\AYSLTIZI\JVAGZFDW")
+Change component parameters (AddParameter): Name = "Order number"; Value = "311-2629-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "0603"; UniqueID = "\AYSLTIZI\FRVPZJGE" ("\AYSLTIZI\FRVPZJGE")
+Change component parameters (AddParameter): Name = "Order number"; Value = "311-2629-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "0603"; UniqueID = "\AYSLTIZI\BBDZQYZQ" ("\AYSLTIZI\BBDZQYZQ")
+Change component parameters (AddParameter): Name = "Order number"; Value = "RHM10KADCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "0603"; UniqueID = "\AYSLTIZI\USDCZTZR" ("\AYSLTIZI\USDCZTZR")
+Change component parameters (AddParameter): Name = "Order number"; Value = "RHM10KADCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "0603"; UniqueID = "\AYSLTIZI\QKYOARSR" ("\AYSLTIZI\QKYOARSR")
+Change component parameters (AddParameter): Name = "Order number"; Value = "311-2629-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19" ("R19"); Footprint = "0603"; UniqueID = "\AYSLTIZI\NLINZXOY" ("\AYSLTIZI\NLINZXOY")
+Change component parameters (AddParameter): Name = "Order number"; Value = "RHM10KADCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "0603"; UniqueID = "\AYSLTIZI\ZEXINPHS" ("\AYSLTIZI\ZEXINPHS")
+Change component parameters (AddParameter): Name = "Order number"; Value = "RHM10KADCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "0603"; UniqueID = "\AYSLTIZI\DMNDLOQI" ("\AYSLTIZI\DMNDLOQI")
+Change component parameters (AddParameter): Name = "Order number"; Value = "RHM10KADCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R22"); Footprint = "0603"; UniqueID = "\AYSLTIZI\QIWVATOS" ("\AYSLTIZI\QIWVATOS")
+Change component parameters (AddParameter): Name = "Order number"; Value = "RHM10KADCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "0603"; UniqueID = "\AYSLTIZI\GNOPWHPW" ("\AYSLTIZI\GNOPWHPW")
+Change component parameters (AddParameter): Name = "Order number"; Value = "311-2629-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "0603"; UniqueID = "\AYSLTIZI\TJAYLEAJ" ("\AYSLTIZI\TJAYLEAJ")
+Change component parameters (AddParameter): Name = "Order number"; Value = "311-2629-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "0603"; UniqueID = "\AYSLTIZI\UAFUWSZG" ("\AYSLTIZI\UAFUWSZG")
+Change component parameters (AddParameter): Name = "Order number"; Value = "311-2629-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27" ("R27"); Footprint = "0603"; UniqueID = "\AYSLTIZI\USSEWSSJ" ("\AYSLTIZI\USSEWSSJ")
+Change component parameters (AddParameter): Name = "Order number"; Value = "311-2629-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R67" ("R67"); Footprint = "0603"; UniqueID = "\AYSLTIZI\NFDZEYPU" ("\AYSLTIZI\NFDZEYPU")
+Change component parameters (AddParameter): Name = "Order number"; Value = "P392KHCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "392k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R68" ("R68"); Footprint = "0603"; UniqueID = "\AYSLTIZI\LJCROCGZ" ("\AYSLTIZI\LJCROCGZ")
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "NI"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP1" ("TP1"); Footprint = "testPoint"; UniqueID = "\AYSLTIZI\XHSLUBTT" ("\AYSLTIZI\XHSLUBTT")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP2" ("TP2"); Footprint = "testPoint"; UniqueID = "\AYSLTIZI\FGWFTSSA" ("\AYSLTIZI\FGWFTSSA")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP3" ("TP3"); Footprint = "testPoint"; UniqueID = "\AYSLTIZI\MJORMXWP" ("\AYSLTIZI\MJORMXWP")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP4" ("TP4"); Footprint = "testPoint"; UniqueID = "\AYSLTIZI\LFDGCCVS" ("\AYSLTIZI\LFDGCCVS")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP5" ("TP5"); Footprint = "testPoint"; UniqueID = "\AYSLTIZI\VTQLOATU" ("\AYSLTIZI\VTQLOATU")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP6" ("TP6"); Footprint = "testPoint"; UniqueID = "\AYSLTIZI\VMIJISXI" ("\AYSLTIZI\VMIJISXI")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP7" ("TP7"); Footprint = "testPoint"; UniqueID = "\AYSLTIZI\BRGQQVVS" ("\AYSLTIZI\BRGQQVVS")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP8" ("TP8"); Footprint = "testPoint"; UniqueID = "\AYSLTIZI\VCKDEMGX" ("\AYSLTIZI\VCKDEMGX")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP9" ("TP9"); Footprint = "testPoint"; UniqueID = "\AYSLTIZI\LTBMSXBB" ("\AYSLTIZI\LTBMSXBB")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP10" ("TP10"); Footprint = "testPoint"; UniqueID = "\AYSLTIZI\RWZGDLQR" ("\AYSLTIZI\RWZGDLQR")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP11" ("TP11"); Footprint = "testPoint"; UniqueID = "\AYSLTIZI\GINAEYWD" ("\AYSLTIZI\GINAEYWD")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP12" ("TP12"); Footprint = "testPoint"; UniqueID = "\AYSLTIZI\VDOMNQAL" ("\AYSLTIZI\VDOMNQAL")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP13" ("TP13"); Footprint = "testPoint"; UniqueID = "\AYSLTIZI\KXETLGJH" ("\AYSLTIZI\KXETLGJH")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP14" ("TP14"); Footprint = "testPoint"; UniqueID = "\AYSLTIZI\BUCWUGIT" ("\AYSLTIZI\BUCWUGIT")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP15" ("TP15"); Footprint = "testPoint"; UniqueID = "\AYSLTIZI\CBWELOMJ" ("\AYSLTIZI\CBWELOMJ")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP16" ("TP16"); Footprint = "testPoint"; UniqueID = "\AYSLTIZI\HXODAIUP" ("\AYSLTIZI\HXODAIUP")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP17" ("TP17"); Footprint = "testPoint"; UniqueID = "\AYSLTIZI\VWOSSJJO" ("\AYSLTIZI\VWOSSJJO")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP18" ("TP18"); Footprint = "testPoint"; UniqueID = "\AYSLTIZI\WYTGANNJ" ("\AYSLTIZI\WYTGANNJ")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP19" ("TP19"); Footprint = "testPoint"; UniqueID = "\AYSLTIZI\PEBFKPGX" ("\AYSLTIZI\PEBFKPGX")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP20" ("TP20"); Footprint = "testPoint"; UniqueID = "\NZOHAQEW" ("\NZOHAQEW")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP22" ("TP22"); Footprint = "testPoint"; UniqueID = "\QFQZEQFI" ("\QFQZEQFI")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP23" ("TP23"); Footprint = "testPoint"; UniqueID = "\VCJKIUGU" ("\VCJKIUGU")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP24" ("TP24"); Footprint = "testPoint"; UniqueID = "\YTQDBDDY" ("\YTQDBDDY")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP26" ("TP26"); Footprint = "testPoint"; UniqueID = "\MROOBVHE" ("\MROOBVHE")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP27" ("TP27"); Footprint = "testPoint"; UniqueID = "\CUFRLLSF" ("\CUFRLLSF")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP28" ("TP28"); Footprint = "testPoint"; UniqueID = "\SSJUQDPD" ("\SSJUQDPD")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP29" ("TP29"); Footprint = "testPoint"; UniqueID = "\BPYNNLSU" ("\BPYNNLSU")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP30" ("TP30"); Footprint = "testPoint"; UniqueID = "\DXFAWEEO" ("\DXFAWEEO")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP31" ("TP31"); Footprint = "testPoint"; UniqueID = "\UPOAYPHU" ("\UPOAYPHU")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP32" ("TP32"); Footprint = "testPoint"; UniqueID = "\FHIQDVAQ" ("\FHIQDVAQ")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP33" ("TP33"); Footprint = "testPoint"; UniqueID = "\KAJAKSTX" ("\KAJAKSTX")
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1702006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Test point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "TQFP64_05MM_P"; UniqueID = "\AYSLTIZI\QBOVTBPT" ("\AYSLTIZI\QBOVTBPT")
+Change component parameters (AddParameter): Name = "Order number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U10" ("U10"); Footprint = "SOIC8"; UniqueID = "\AYSLTIZI\VPPPPBIO" ("\AYSLTIZI\VPPPPBIO")
+Change component parameters (AddParameter): Name = "Order number"; Value = "296-24499-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "REF5025ID"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetC15_0 New Net Name=NetC13_0
+Change Net Name : Old Net Name=NetC15_1 New Net Name=NetC13_1

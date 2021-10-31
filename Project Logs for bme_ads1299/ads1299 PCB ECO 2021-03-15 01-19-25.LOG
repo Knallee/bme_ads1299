@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=AVSS Pin=C13-0
+Removed Pin From Net: NetName=AGND Pin=C13-1
+Removed Pin From Net: NetName=AVSS Pin=C14-0
+Removed Pin From Net: NetName=AGND Pin=C14-1
+Removed Member From Class: ClassName=U_ads1299 Member=C13
+Removed Member From Class: ClassName=U_ads1299 Member=C14
+Added Room: Name=bme_ads1299

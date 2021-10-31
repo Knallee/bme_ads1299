@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=AVSS Pin=U1-20
+Removed Pin From Net: NetName=AVSS Pin=U1-23
+Removed Pin From Net: NetName=AVSS Pin=U1-32
+Removed Pin From Net: NetName=AVSS Pin=U1-53
+Removed Pin From Net: NetName=AVSS Pin=U1-57
+Removed Pin From Net: NetName=AVSS Pin=U1-58
+Added Component: Designator=R18(0603)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GPIO1 Pin=R18-0
+Added Pin To Net: NetName=AGND Pin=R18-1
+Added Pin To Net: NetName=NetU1_20 Pin=U1-20
+Added Pin To Net: NetName=NetU1_20 Pin=U1-23
+Added Pin To Net: NetName=NetU1_20 Pin=U1-32
+Added Pin To Net: NetName=NetU1_20 Pin=U1-53
+Added Pin To Net: NetName=NetU1_20 Pin=U1-57
+Added Pin To Net: NetName=NetU1_20 Pin=U1-58
+Added Net: Name=NetU1_20
+Added Member To Class: ClassName=U_ads1299 Member=Component R18 0603, resistor

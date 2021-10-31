@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MOSI_ADS Pin=P2-18
+Removed Pin From Net: NetName=P\D\W\N\_ADS Pin=P2-19
+Removed Pin From Net: NetName=R\S\T\_ADS Pin=P2-20
+Added Pin To Net: NetName=R\S\T\_ADS Pin=P2-11
+Added Pin To Net: NetName=P\D\W\N\_ADS Pin=P2-12
+Added Pin To Net: NetName=MOSI_ADS Pin=P2-13

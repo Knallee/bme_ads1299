@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=AGND Pin=C4-0
+Removed Pin From Net: NetName=AGND Pin=C5-0
+Added Pin To Net: NetName=AVSS Pin=C4-0
+Added Pin To Net: NetName=AVSS Pin=C5-0

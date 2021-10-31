@@ -1,0 +1,19 @@
+Change component parameters: Designator = "R22" ("R22"); Footprint = "0603"; UniqueID = "\AYSLTIZI\QIWVATOS" ("\AYSLTIZI\QIWVATOS")
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R68" ("R68"); Footprint = "0603"; UniqueID = "\AYSLTIZI\LJCROCGZ" ("\AYSLTIZI\LJCROCGZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "NI"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=C20-0
+Added Pin To Net: NetName=AGND Pin=C21-0
+Added Pin To Net: NetName=AGND Pin=P1-5
+Added Pin To Net: NetName=AGND Pin=P1-16
+Added Pin To Net: NetName=AGND Pin=R19-1
+Added Pin To Net: NetName=AGND Pin=R20-1
+Added Pin To Net: NetName=AGND Pin=R21-1
+Added Pin To Net: NetName=AGND Pin=R22-1
+Added Pin To Net: NetName=AGND Pin=TP22-0
+Added Pin To Net: NetName=AGND Pin=U1-31
+Added Pin To Net: NetName=AGND Pin=U1-33
+Added Pin To Net: NetName=AGND Pin=U1-49
+Added Pin To Net: NetName=AGND Pin=U1-51
+Change Net Name : Old Net Name=AGND New Net Name=GND
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)

@@ -1,0 +1,4 @@
+Added Component: Designator=P3(M50-4301045)
+Add component (AddParameter): Name = "Farnell"; Value = "1099531"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2x10 Mount Header, 1.27mm"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=bme_ads1299 Member=Component P3 Mount Header (Male) 1.27mm
